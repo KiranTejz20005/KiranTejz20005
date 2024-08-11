@@ -10,10 +10,6 @@ I am a computer science undergraduate student, a tech enthusiast trying to serve
 😄 Pronouns: He/His
 ⚡ Fun fact: Addicted to code...
 
-**Languages and Tools:
-**
-     
-
 ⚙️ Things I use to get stuff done
 
 OS:Windows 10
