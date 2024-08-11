@@ -1,10 +1,31 @@
-- 👋 Hi, I’m @KiranTejz20005
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning Python
-- looking to collaborate on ...
-- 📫 How to reach me ...
+Hola, I'm Kiran Teja!👋
+I am a computer science undergraduate student, a tech enthusiast trying to serve the world
 
-<!---
-KiranTejz20005/KiranTejz20005 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🔭 I’m currently working on my own venture will reveal.....
+🌱 I’m currently learning more about Artificial Intelligence & Algorithms.
+👯 I’m looking to collaborate on Stackoverflow.
+🤔 I’m looking for help with Hands on projects work.
+💬 Ask me about ML, web or any tech related stuff.
+📫 How to reach me: Instagram:Kirantejz_2005
+😄 Pronouns: He/His
+⚡ Fun fact: Addicted to code...
+
+
+Languages and Tools:
+
+     
+
+  
+image
+
+
+𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑
+
+
+⚙️ Things I use to get stuff done
+
+OS:Windows 10
+Desktop: Gigabyte
+Browser: Safari & Chrome
+Code Editor: VSCode and Eclipse IDE
+Show some ❤️ by starring some of the repositories!
