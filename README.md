@@ -11,17 +11,6 @@ I am a computer science undergraduate student, a tech enthusiast trying to serve
 ⚡ Fun fact: Addicted to code...
 
 
-Languages and Tools:
-
-     
-
-  
-image
-
-
-𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑
-
-
 ⚙️ Things I use to get stuff done
 
 OS:Windows 10
