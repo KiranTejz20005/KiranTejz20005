@@ -2,7 +2,7 @@
 I am a computer science undergraduate student, a tech enthusiast trying to serve the world
 
 - 🔭 I’m currently working on my own projects.....
-- 🌱 I’m currently learning more about Artificial Intelligence & Algorithms.
+- 🌱 I’m currently learning more about Data Structures & Algorithms.
 - 🤔 I’m looking for help with Hands on projects work.
 - 📫 How to reach me: [Instagram- @Kiran_tejz_2005](https://instagram.com/kiran_tejz_2005),[Mail - @kiranlanke824@gmail.com]
 - 😄 Pronouns: He/His  
