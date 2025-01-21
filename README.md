@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **Java and DSA**
 
-- 💬 Ask me about **Python , Java and Front End Related Stuff**
+- 💬 Ask me about **Python and Front End Related Stuff**
 
 - 📫 How to reach me **kiranlanke824@gmail.com**
 
