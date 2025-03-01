@@ -20,7 +20,7 @@
 <a href="https://linkedin.com/in/kirantejalanke" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kirantejalanke" height="30" width="40" /></a>
 <a href="https://instagram.com/kiran_tejz_2005" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kiran_tejz_2005" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/kiran teja" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="kiran teja" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/kiran teja" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kiran teja" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/KiranTeja08/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kiran teja" height="30" width="40" /></a>
 <a href="https://discord.gg/833195449854328852" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="833195449854328852" height="30" width="40" /></a>
 </p>
 
